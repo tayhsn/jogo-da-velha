@@ -1,4 +1,4 @@
-# Jogo da Velha: #
+# Jogo da Velha #️⃣
 
-### Projeto realizado no curso de ReactJS da @Ocean Samsung
+### Projeto realizado no curso de ReactJS da @Ocean Samsung :white_check_mark:
 
